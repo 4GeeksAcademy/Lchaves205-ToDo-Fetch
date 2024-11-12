@@ -1,5 +1,5 @@
 import React from "react";
-import Todolist from "./Todolist.jsx";
+import Todolist from "./TodoList.jsx";
 
 //include images into your bundle
 import rigoImage from "../../img/rigo-baby.jpg";
